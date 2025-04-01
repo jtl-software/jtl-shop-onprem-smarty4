@@ -1,6 +1,6 @@
 {
     "name": "jtlshop/smarty4",
-    "version": "4.5.5",
+    "version": "1.0.0",
     "type": "library",
     "description": "Smarty - the compiling PHP template engine",
     "keywords": [
@@ -37,11 +37,6 @@
         "classmap": [
             "libs/"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.0.x-dev"
-        }
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5 || ^7.5",
