@@ -31,7 +31,7 @@
         "forum": "https://github.com/smarty-php/smarty/discussions"
     },
     "require": {
-        "php": "^7.1 || ^8.0"
+        "php": ">=8.3"
     },
     "autoload": {
         "classmap": [
