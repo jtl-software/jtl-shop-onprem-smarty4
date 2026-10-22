@@ -1,6 +1,5 @@
 {
     "name": "jtlshop/smarty4",
-    "version": "1.0.0",
     "type": "library",
     "description": "Smarty - the compiling PHP template engine",
     "keywords": [
